@@ -1,6 +1,6 @@
 <script setup lang="ts">
 import pointManagement from './views/dot/pointManagement.vue'
-  console.log(123)
+  console.log(456)
 </script>
 
 <template>
